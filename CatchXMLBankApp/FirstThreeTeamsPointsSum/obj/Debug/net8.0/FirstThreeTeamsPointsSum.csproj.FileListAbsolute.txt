@@ -1,0 +1,14 @@
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\obj\Debug\net8.0\FirstThreeTeamsPointsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\obj\Debug\net8.0\FirstThreeTeamsPointsSum.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\obj\Debug\net8.0\FirstThreeTeamsPointsSum.AssemblyInfo.cs
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\obj\Debug\net8.0\FirstThreeTeamsPointsSum.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\bin\Debug\net8.0\FirstThreeTeamsPointsSum.exe
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\bin\Debug\net8.0\FirstThreeTeamsPointsSum.deps.json
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\bin\Debug\net8.0\FirstThreeTeamsPointsSum.runtimeconfig.json
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\bin\Debug\net8.0\FirstThreeTeamsPointsSum.dll
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\bin\Debug\net8.0\FirstThreeTeamsPointsSum.pdb
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\obj\Debug\net8.0\FirstThreeTeamsPointsSum.dll
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\obj\Debug\net8.0\refint\FirstThreeTeamsPointsSum.dll
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\obj\Debug\net8.0\FirstThreeTeamsPointsSum.pdb
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\obj\Debug\net8.0\FirstThreeTeamsPointsSum.genruntimeconfig.cache
+C:\Users\Админ\source\repos\CatchXMLBankApp\FirstThreeTeamsPointsSum\obj\Debug\net8.0\ref\FirstThreeTeamsPointsSum.dll
